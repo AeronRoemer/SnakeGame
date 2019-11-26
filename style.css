@@ -1,0 +1,58 @@
+body {
+  background-color: #331a00;
+  margin: 0px;
+  font-family: 'arial';
+  color: white;
+}
+
+.snake-leaves {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+.title-row {
+  margin-top: 30px;
+  margin-bottom: 18px;
+  text-align: center;
+}
+
+.instructions-title {
+  display: inline;
+  font-size: 20px;
+  font-family: 'Work Sans';
+}
+
+.instructions-row {
+  margin: 10px auto;
+  width: 400px;
+}
+
+.instructions-number {
+  padding-right: 25px;
+  font-family: 'Work Sans';
+  font-size: 36px;
+  color: yellow;
+}
+
+.instructions-text {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.snake-row {
+  text-align: center;
+}
+
+.start-row {
+  margin: auto;
+  text-align: center;
+  width: 120px;
+  height: 40px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
