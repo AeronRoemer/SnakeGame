@@ -2,11 +2,11 @@ let snakeImage1 = document.getElementById('snake1');
 let snakeImage2 = document.getElementById('snake2');
 let snakeImage3 = document.getElementById('snake3');
 
-let snakeCoral = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/robot.svg";
+let snakeCoral = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeCoral.png";
 
-let snakeKnown = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/beach.svg";
+let snakeKnown = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeKing.png";
 
-let hiddenSnake = "https://s3.amazonaws.com/codecademy-content/projects/chore-door/images/closed_door.svg";
+let hiddenSnake = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeHidden.png";
 
 let startButton = document.getElementById('start');
 
