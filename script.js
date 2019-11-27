@@ -2,9 +2,9 @@ let snakeImage1 = document.getElementById('snake1');
 let snakeImage2 = document.getElementById('snake2');
 let snakeImage3 = document.getElementById('snake3');
 
-let snakeCoral = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeCoral.png";
+let snakeCoral = "https://raw.githubusercontent.com/AeronRoemer/SnakeGame/master/SnakeCoral.png";
 
-let snakeKnown = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeKing.png";
+let snakeKnown = "https://raw.githubusercontent.com/AeronRoemer/SnakeGame/master/SnakeKing.png";
 
 let hiddenSnake = "https://raw.githubusercontent.com/AeronRoemer/SnakeGame/master/SnakeHidden.png";
 
