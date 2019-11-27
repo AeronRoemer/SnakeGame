@@ -6,7 +6,7 @@ let snakeCoral = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeCora
 
 let snakeKnown = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeKing.png";
 
-let hiddenSnake = "https://github.com/AeronRoemer/SnakeGame/blob/master/SnakeHidden.png";
+let hiddenSnake = "https://raw.githubusercontent.com/AeronRoemer/SnakeGame/master/SnakeHidden.png";
 
 let startButton = document.getElementById('start');
 
