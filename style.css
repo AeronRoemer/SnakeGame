@@ -46,6 +46,7 @@ body {
 .snake-row {
   text-align: center;
   display: flex;
+  justify-content: space-around;
 }
 
 .start-row {
