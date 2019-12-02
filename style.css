@@ -45,7 +45,10 @@ body {
 
 .snake-row {
   text-align: center;
-  display: inline-flex;
+}
+
+.flexy {
+   display: flex;
   justify-content: space-around;
 }
 
