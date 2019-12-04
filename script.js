@@ -61,9 +61,9 @@ const isClicked = function (image){
 
 const gameOver = (status) => {
   if (status === 'win'){
-    startButton.innerHTML = 'You win! Click to play again?';
+    startButton.innerHTML = 'Red by black, venom lack! You won! Click to play again?';
   } else {
-    startButton.innerHTML = 'Death by snakebite! Click to play again?';
+    startButton.innerHTML = 'Red by yellow, kill a fellow! Click to play again?';
   }
   currentlyPlaying = false;
 }
